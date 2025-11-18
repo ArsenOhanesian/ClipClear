@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Support for [APP NAME]</title>
+</head>
+<body>
+
+    <h1>Support for [APP NAME]</h1>
+    <p>Thank you for using [APP NAME]! If you have any questions, feedback, or need to report a bug, please contact us directly via email.</p>
+
+    <h2>Contact Information</h2>
+    <p>We are dedicated to providing fast and helpful support. Please reach out to us:</p>
+
+    <p><strong>Email:</strong> <a href="mailto:[YOUR EMAIL ADDRESS]">[YOUR EMAIL ADDRESS]</a></p>
+
+</body>
+</html>
